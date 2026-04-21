@@ -1,24 +1,16 @@
-\# Yoga Sequence Project
+# Yoga Sequence Project
 
+## 🎥 Demo Video
+[![Watch the demo](thumbnail.png)](ACV_Demo.mp4)
 
-
-\## Demo Video
-
-ACV\_Demo.mkv
-
-
-
-\## Description
-
+## 📌 Description
 This project demonstrates a yoga pose detection system using Python.
 
+## 🛠️ Tech Stack
+- Python
+- OpenCV
+- Machine Learning
 
-
-\## Files
-
-\- Yoga\_Code.ipynb: Main implementation
-
-\- ACV\_Demo.mkv: Demo video
-
-
-
+## 📂 Files
+- Yoga_Code.ipynb
+- ACV_Demo.mp4
