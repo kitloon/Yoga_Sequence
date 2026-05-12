@@ -8,10 +8,7 @@
 
 > Place your demo video or GIF here.
 
-```
-assets/
-└── demo.gif   ← Add your screen recording here
-```
+[![Watch the demo](https://img.youtube.com/vi/ir3WG_lNXSk/0.jpg)](https://www.youtube.com/watch?v=ir3WG_lNXSk)
 
 ---
 
@@ -282,20 +279,3 @@ git branch -M main
 git push -u origin main
 ```
 
-**Recommended `.gitignore`:**
-
-```gitignore
-__pycache__/
-*.pyc
-.venv/
-venv/
-.ipynb_checkpoints/
-```
-
----
-
-## 📄 License
-
-This project was developed as part of an internship program.
-
-© 2026 Daniel — Raffles University Internship Project at **DigiMagic**
