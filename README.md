@@ -128,12 +128,6 @@ yoga-pose-detection/
 │
 ├── Yoga_Code.ipynb         # Main notebook — all 3 detection modes
 │
-├── testing/
-│   └── test6.jpg           # Sample image for static detection (Mode 1)
-│
-├── assets/
-│   └── demo.gif            # Demo recording (add your own)
-│
 └── README.md               # This file
 ```
 
